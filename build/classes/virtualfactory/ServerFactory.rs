@@ -1,2 +1,0 @@
-virtualfactory.ServerFactory
-virtualfactory.ClientHandler
